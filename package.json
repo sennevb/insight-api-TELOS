@@ -50,7 +50,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/sennevb/insight-api-XTELOS/issues"
+    "url": "https://github.com/sennevb/insight-api-TELOS/issues"
   },
   "homepage": "https://github.com/sennevb/insight-api-TELOS",
   "license": "MIT",
@@ -74,7 +74,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-lib-TELOS": "git://github.com/sennevb/bitcore-lib-TELOS#master",
-    "bitcore-message-TELOS": "git://github.com/sennevb/bitcore-message-XBTS#master",
+    "bitcore-message-TELOS": "git://github.com/sennevb/bitcore-message-TELOS#master",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": ">=4.17.19",
